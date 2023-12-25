@@ -11,7 +11,7 @@ description.
 
 API to use:
 GET single product:
-https://fakestoreapi.com/products/<id>
+https://fakestoreapi.com/products/(id)
 
 GET list of products:
 https://fakestoreapi.com/products/
